@@ -8,6 +8,7 @@ Skills: <br>
   <li>C++</li>
   <li>Object-Oriented Programming</li>
   <li>Adobe XD</li>
+  <li>Adobe Photoshop</li>
   <li>HTML5</li>
   <li>CSS</li>
   <li>Java</li>
