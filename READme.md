@@ -6,7 +6,7 @@ Skills: <br>
 <ul>
   <li>C</li>
   <li>C++</li>
-  <li>Objected-Oriented Programming</li>
+  <li>Object-Oriented Programming</li>
   <li>Adobe XD</li>
   <li>HTML5</li>
   <li>CSS</li>
