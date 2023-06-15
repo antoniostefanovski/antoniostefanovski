@@ -1,7 +1,8 @@
 ## Hi 🖐,<br>
 ### I am Antonio Stefanovski.<br>
 ### 2002, Macedonia 🇲🇰<br>
-Software Engineer Student at FCSE - Faculty of Computer Science and Engineering<br>
+<br>
+
 Skills: <br>
 <ul>
   <li>C</li>
