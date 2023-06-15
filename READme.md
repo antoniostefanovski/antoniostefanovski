@@ -1,6 +1,5 @@
 ## Hi 🖐,<br>
-### I am Antonio Stefanovski.<br>
-### 2002, Macedonia 🇲🇰<br>
+### I am Antonio Stefanovski. 🇲🇰<br>
 <br>
 
 Skills: <br>
