@@ -22,4 +22,3 @@ Skills: <br>
   <li>Microsoft Office Tools</li>
 </ul>
 <br>
-My latest project: Learn Python - (https://github.com/antoniostefanovski/uchampython) (https://uchampython.netlify.app/)
