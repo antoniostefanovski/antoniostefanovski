@@ -16,10 +16,11 @@ Skills: <br>
   <li>JavaScript</li>
   <li>JQuery</li>
   <li>C#</li>
-  <li>.NET</li>
+  <li>.NET Core</li>
   <li>React.js</li>
   <li>Shell Scripting</li>
   <li>Operation Systems (Win/Linux)</li>
+  <li>Cryptography</li>
   <li>Microsoft Office Tools</li>
 </ul>
 <br>
