@@ -21,6 +21,5 @@ Skills: <br>
   <li>Shell Scripting</li>
   <li>Operation Systems (Win/Linux)</li>
   <li>Cryptography</li>
-  <li>Microsoft Office Tools</li>
 </ul>
 <br>
